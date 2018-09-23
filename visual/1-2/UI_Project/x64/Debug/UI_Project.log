@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+  MyForm1.cpp
+  Source.cpp
+  Создание кода...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  MyForm.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  UI_Project.vcxproj -> E:\1-2\x64\Debug\UI_Project.exe
